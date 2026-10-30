@@ -1,0 +1,6 @@
+{
+  "name": "TeleGen",
+  "description": "تولید محتوا؛ سریع، خودکار، بینهایت - سیستم هوشمند اتوماسیون، زمان‌بندی انتشار و مینی‌اپ تلگرام (Telegram Mini App) با رصد ترندها، هوش رقبا و سئو LSI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
